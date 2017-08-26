@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:App9"
+             x:Class="App9.Page1" Padding="50">
+    <ContentPage.Content>
+            <local:CustomFrame 
+                           BorderRadiusTopLeft="5" 
+                           BorderRadiusTopRight="10" 
+                           BorderRadiusBottomLeft="15"               
+                           BorderRadiusBottomRight="20" 
+                           VerticalOptions="Center" 
+                           BackgroundColor="MidnightBlue" 
+                           HorizontalOptions="Center" 
+                           BorderWidth="1" 
+                           BorderColor="Green">
+            <local:CustomFrame.Padding>
+                <OnPlatform x:TypeArguments="Thickness" WinPhone="30" iOS="10" Android="10" />
+            </local:CustomFrame.Padding>
+            <local:CustomFrame.BorderRadiusBottomLeft>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <OnPlatform.WinPhone>10</OnPlatform.WinPhone>
+                    <OnPlatform.Android>10</OnPlatform.Android>
+                    <OnPlatform.iOS>10</OnPlatform.iOS>
+                </OnPlatform>
+            </local:CustomFrame.BorderRadiusBottomLeft>
+            <local:CustomFrame.BorderRadiusBottomRight>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <OnPlatform.WinPhone>20</OnPlatform.WinPhone>
+                    <OnPlatform.Android>20</OnPlatform.Android>
+                    <OnPlatform.iOS>20</OnPlatform.iOS>
+                </OnPlatform>
+            </local:CustomFrame.BorderRadiusBottomRight>
+            <local:CustomFrame.BorderRadiusTopLeft>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <OnPlatform.WinPhone>30</OnPlatform.WinPhone>
+                    <OnPlatform.Android>30</OnPlatform.Android>
+                    <OnPlatform.iOS>30</OnPlatform.iOS>
+                </OnPlatform>
+            </local:CustomFrame.BorderRadiusTopLeft>
+            <local:CustomFrame.BorderRadiusTopRight>
+                <OnPlatform x:TypeArguments="x:Double">
+                    <OnPlatform.WinPhone>40</OnPlatform.WinPhone>
+                    <OnPlatform.Android>40</OnPlatform.Android>
+                    <OnPlatform.iOS>40</OnPlatform.iOS>
+                </OnPlatform>
+            </local:CustomFrame.BorderRadiusTopRight>
+
+            <Label Text="Test" TextColor="Yellow" Margin="5"/>
+        </local:CustomFrame>
+    </ContentPage.Content>
+</ContentPage>

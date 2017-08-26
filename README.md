@@ -1,2 +1,2 @@
-# CustomRenderersResources
-We shared Custom Renderers to Xamarin Forms
+# CustomRenderers Resources
+## We shared Custom Renderers to Xamarin Forms

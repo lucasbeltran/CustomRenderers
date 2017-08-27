@@ -1,0 +1,15 @@
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\CustomFonts.dll
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\CustomFonts.pdb
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\obj\Debug\CustomFonts.csprojResolveAssemblyReference.cache
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\obj\Debug\CustomFonts.MainPage.xaml.g.cs
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\obj\Debug\CustomFonts.App.xaml.g.cs
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\obj\Debug\CustomFonts.dll
+C:\Users\SilviaAlejandra\Desktop\CustomRenderers\Xamarin.Forms\Label\CustomFonts\CustomFonts\CustomFonts\obj\Debug\CustomFonts.pdb

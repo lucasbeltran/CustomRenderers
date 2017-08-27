@@ -3,11 +3,18 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:CustomFonts"
              x:Class="CustomFonts.MainPage">
-
-    <local:LabelCustomFont Text="Welcome to Xamarin Forms!" 
+    <StackLayout>
+        <local:LabelCustomFont Text="Welcome to Xamarin Forms!" 
            VerticalOptions="Center" 
            HorizontalOptions="Center"
            FontFamily="antartic.ttf#Antartic">
-    </local:LabelCustomFont>
+        </local:LabelCustomFont>
+
+        <local:LabelCustomFont Text="{Binding Source={x:Static local:Icons.Search}}"
+           VerticalOptions="Center" 
+           HorizontalOptions="Center"
+           FontFamily="fontawesome.ttf#FontAwesome">
+        </local:LabelCustomFont>
+    </StackLayout>
 
 </ContentPage>
